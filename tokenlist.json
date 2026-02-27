@@ -1,0 +1,11 @@
+{
+  "name": "SkyBridge Token List",
+  "logoURI": "https://skybridge.dev/logo.png",
+  "timestamp": "2025-01-01T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": []
+}
